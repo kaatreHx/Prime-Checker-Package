@@ -1,4 +1,4 @@
-def checkPrime(number):
+def is_prime(number):
     count = 0
 
     if number <= 1:

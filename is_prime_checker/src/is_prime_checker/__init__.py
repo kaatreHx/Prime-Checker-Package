@@ -1,1 +1,1 @@
-from .checkPrime import checkPrime
+from .prime import is_prime

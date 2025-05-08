@@ -1,4 +1,4 @@
-from is_prime_checker import checkPrime as is_prime
+from is_prime_checker import is_prime
 
 def test_primes():
     assert is_prime(2)
