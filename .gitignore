@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
+<<<<<<< HEAD
 dist/
 build/
 
@@ -10,3 +11,17 @@ env/
 
 # Pytest cache
 .pytest_cache/
+=======
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+
+# Editor stuff
+*.vscode/
+.idea/
+>>>>>>> a58969f3ee3642b9746200b67d8da086c316e748
